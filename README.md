@@ -1,16 +1,20 @@
-## Hi there 👋
+# Henry Van Ness
 
-<!--
-**henryvn27/henryvn27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software where local-first AI, developer tooling, and robotics meet.
 
-Here are some ideas to get you started:
+Currently building [Scoutly](https://scoutly.one/), a robotics scouting and strategy product, and publishing the tools around it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **[Cowlick](https://github.com/henryvn27/cowlick)** — a native macOS companion for OpenAI Codex.
+- **[ORCA Framework](https://github.com/henryvn27/orca-framework)** — local mission control for AI coding work.
+- **[Simulator Visual Proof](https://github.com/henryvn27/simulator-visual-proof)** — interaction-based screenshot and video proof for iOS Simulator changes.
+- **[Meetily Improved](https://github.com/henryvn27/meetily_improved)** — a local-first meeting workspace for Mac.
+- **[Code-Blind Simulator QA](https://github.com/henryvn27/code-blind-simulator-qa)** — independent black-box QA for iOS Simulator apps.
+- **[Agent Skills](https://github.com/henryvn27/agent-skills)** — reusable skills for building, testing, and shipping software.
+
+## What I care about
+
+Useful products, clear boundaries, honest verification, and software that still works outside the demo.
+
+[Portfolio](https://henryvanness.com) · [LinkedIn](https://www.linkedin.com/in/henryvanness/)
